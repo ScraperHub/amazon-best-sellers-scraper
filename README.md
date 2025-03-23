@@ -50,7 +50,7 @@ pip install crawlbase
 
 ### 2. Update the Scraper with Your Token
 
-Replace "CRAWLBASE_API_TOKEN" in the script with your Crawlbase Crawling API Token.
+Replace "`CRAWLBASE_API_TOKEN`" in the script with your Crawlbase Crawling API Token.
 
 ### 3. Run the Scraper
 
